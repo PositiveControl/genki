@@ -1,30 +1,17 @@
-## Welcome to GitHub Pages
+## Genki Gumi 😊
 
-You can use the [editor on GitHub](https://github.com/PositiveControl/genki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Yakuza-inspired](https://en.wikipedia.org/wiki/Yakuza) decentralized autonomous organization ([DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)) focused on managing and operating digital assets to realize utility; income, growth and external influence.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Structure
 
-```markdown
-Syntax highlighted code block
+Genki Gumi [gg] follows a traditional Yakuza family structure, headed by an _Oyabun_ and broken into two sections, _saiko-komon_ (administration - planning) and _gashira_ (lieutenant - execution). It is intended that the _Oyabun_ will be an automated role, executed by contracts via votes cast by all members. 
 
-# Header 1
-## Header 2
-### Header 3
+![gg structure](./assets/images/structure.png)
 
-- Bulleted
-- List
+_* note: this chart was taken from a google search and will eventually be altered to reflect gg roles more accurately_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
