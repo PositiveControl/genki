@@ -1,15 +1,6 @@
-# Active Investments
-## DAO and Governance
-- [ENS (ETH)](https://ens.domains)
-- [SPORKDAO (ETH)](https://www.sporkdao.org/)
-- [ChainGuardians (ETH)](https://chainguardians.com)
-- [DOPEDAO (ETH)](https://dope.gg)
-- [War Riders (ETH)](https://warriders.com)
-- [ShapeShift (ETH)](https://shapeshift.com/)
-- [NFTP (ETH)](https://nftp.fun/)
-- [Snowball (AVAX)](https://snowball.network/)
-- [Pangolin (AVAX)](https://pangolin.exchange)
-- [Star Atlas POLIS (SOL)](https://staratlas.com)
+[< Back](./)
+
+# Active Ventures
 
 ## Metaverse, Gaming and Entertainment
 - [MetaMars](https://metamars.org)
@@ -21,7 +12,19 @@
 - [DRRT Records](https://drrt.io)
 
 ## Gaming Scholarships
-- gg scholarship assets are managed by Dark Horizon 
+- gg scholarship accounts are managed by Dark Horizon
+
+## DAO and Governance
+- [ENS (ETH)](https://ens.domains)
+- [SPORKDAO (ETH)](https://www.sporkdao.org/)
+- [ChainGuardians (ETH)](https://chainguardians.com)
+- [War Riders (ETH)](https://warriders.com)
+- [DopeDAO (ETH)](https://dope.gg)
+- [ShapeShift (ETH)](https://shapeshift.com/)
+- [NFTP (ETH)](https://nftp.fun/)
+- [Snowball (AVAX)](https://snowball.network/)
+- [Pangolin (AVAX)](https://pangolin.exchange)
+- [Star Atlas POLIS (SOL)](https://staratlas.com)
 
 ## Rare Collectibles
 - 1/1 La Sirena (Star Trek: Picard; CBS Interactive + CSC; ETH)
@@ -32,10 +35,12 @@
 - ETH mining
 - HNT mining
 
-# Past Invenstments
+# Past Ventures
 
 - Decentraland
 - CryptoSpaceCommander
 - Gods Unchained
 - CryptoKitties
 - 0xUniverse
+
+[< Back](./)
