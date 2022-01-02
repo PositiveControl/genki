@@ -11,4 +11,4 @@ In our current state, assets are held by owners. We're a Discord of like-minded 
 
 🚧🚧🚧Under Construction🚧🚧🚧
 
-![img](./assets/images/gg-nobk-lg.png)
+![img](./assets/images/gg-nobk-lg.png | width=250)
