@@ -1,3 +1,5 @@
+
+
 🚧🚧🚧Under Construction🚧🚧🚧
 
 ## Genki Gumi 😊
@@ -13,3 +15,5 @@ Genki Gumi [gg] follows a traditional Yakuza family structure, headed by an _Oya
 ![gg structure](./assets/images/structure.png)
 
 _* note: this chart was taken from a google search and will eventually be altered to reflect gg roles more accurately_
+
+[Active Investments](./investments.html)
